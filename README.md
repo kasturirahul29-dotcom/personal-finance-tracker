@@ -1,6 +1,8 @@
 <div align="center">
   
-# 💸 Personal Finance Tracker
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=80&lines=💸+Personal+Finance+Tracker;Track.+Predict.+Budget.+Succeed.;Powered+by+Django+%26+React" alt="Typing SVG" />
+</a>
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
