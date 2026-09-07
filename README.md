@@ -74,6 +74,11 @@ If an active budget exists, the system returns how much of it has been used, aut
 - `approaching_limit`: Exceeded 80% of budget.
 - `over_budget`: Exceeded 100% of budget.
 
+### ✨ Modern UI/UX
+The frontend is designed with sleek, responsive micro-animations:
+- **Cascading Data Tables:** Lists of transactions and predictions gracefully slide in with staggered delays, making the interface feel dynamic and premium.
+- **Pulsing Attention Badges:** Anomalies and budget warnings trigger subtle pulsing glows, immediately drawing the user's eye to critical financial insights.
+
 ---
 
 ## 🛠️ Tech Stack
